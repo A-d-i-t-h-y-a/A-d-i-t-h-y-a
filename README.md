@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a dedicated and motivated computer science student with a passion for problem solving and software development. Proficient in a variety of programming languages  and technologies, I am eager to contribute to innovative projects and continue expanding my skills. With a keen interest in exploring new fields related to technology, I am  enthusiastic about tackling new challenges and embracing opportunities for growth.
-
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adithya-chary-periketi-07121b23b/) 
